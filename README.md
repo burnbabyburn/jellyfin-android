@@ -48,10 +48,10 @@ npx cordova build android
 npx cordova run android
 ```
 
-### Debian dependencies
-# latest npm
+### Debian stable (has jdk8) build enviroment
+latest npm
 curl -sL https://deb.nodesource.com/setup_12.x | sudo bash -
-
+install dependencies
 apt install npm git android-sdk-build-tools
 
 ## Troubleshooting
