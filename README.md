@@ -48,6 +48,9 @@ npx cordova build android
 npx cordova run android
 ```
 
+### Debian dependencies
+apt install npm git android-sdk-build-tools
+
 ## Troubleshooting
 
 ### Failed to find `ANDROID_HOME`
