@@ -11,7 +11,7 @@ Jellyfin Mobile is an Android app built with Cordova.
 - latest npm (pipe to bash!)
 ```curl -sL https://deb.nodesource.com/setup_12.x | sudo bash -```
 - install dependencies
-```apt install npm git android-sdk-build-tools```
+```apt install npm git android-sdk```
 
 ### Getting Started
 
