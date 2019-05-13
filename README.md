@@ -49,7 +49,7 @@ npx cordova run android
 ```
 
 ### Debian stable (has jdk8) build enviroment
-- latest npm (lazy-install)
+- latest npm (pipe to bash!)
 ```curl -sL https://deb.nodesource.com/setup_12.x | sudo bash -```
 - install dependencies
 ```apt install npm git android-sdk-build-tools```
