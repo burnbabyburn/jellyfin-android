@@ -15,9 +15,10 @@ Jellyfin Mobile is an Android app built with Cordova.
 - Get android-sdk licenses (https://wiki.debian.org/AndroidTools/IntroBuildingApps)
 ```git clone https://github.com/Shadowstyler/android-sdk-licenses.git```
 ```cp -a android-sdk-licenses/*-license /usr/lib/android-sdk/licenses```
+
 #### Set ENV vars
-```export ANDROID_HOME="/usr/lib/android-sdk/"```
-```export PATH="${PATH}:${ANDROID_HOME}tools/:${ANDROID_HOME}platform-tools/"```
+- ```export ANDROID_HOME="/usr/lib/android-sdk/"```
+- ```export PATH="${PATH}:${ANDROID_HOME}tools/:${ANDROID_HOME}platform-tools/"```
 
 ### Getting Started
 
