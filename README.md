@@ -76,3 +76,8 @@ Android Studio will write over `gradlew` occasionally but doesn't set it as exec
 ### File not Found `index.html`
 
 Make sure the web source has been properly copied to `www` using gulp. If you are using Android Studio you have to build with cordova at least once so the files are copied into the android source files.
+
+### command not found: build
+
+move -d parameter to the end of the command
+`npx cordova build android -d`
